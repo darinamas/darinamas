@@ -3,11 +3,12 @@ I am Test Engineer from Prague, Czech Republic and currently work at HBO Max. �
 
 I am passionate ❤️ about
 
-testing,
-automating,
-solve testing and automation test problems in real world,
-designing test frameworks
-mobile devices
+# testing,
+# automating,
+# solve testing and automation test problems in real world,
+# designing test frameworks,
+# mobile devices
+# ios development and ios automation
 
 Known Languages:
 		Swift, Java
