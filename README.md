@@ -7,7 +7,10 @@
 
 - ⚡ **I am passionate ❤️ about testing, automating, solve testing and automation test problems in real world, designing test frameworks, mobile devices, ios development and ios automation**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/darina-melis/ </h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/darina-melis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darina-melis" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
