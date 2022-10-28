@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Selenium, Java, Swift, XCTest**
 
-- ⚡ **I am passionate ❤️ about testing, automating, solve testing and automation test problems in real world, designing test frameworks, mobile devices ios development and ios automation**
+- ⚡ **I am passionate ❤️ about testing, automating, solve testing and automation test problems in real world, designing test frameworks, mobile devices, ios development and ios automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
