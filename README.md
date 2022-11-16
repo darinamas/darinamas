@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DARINA</h1>
-<h3 align="center">A passionate Test Engineer from Prague, Czech Republic</h3>
+<h3 align="center">A passionate Test Engineer and Junior ios developr from Prague, Czech Republic</h3>
 
 - 🔭 I’m currently working on **HBO Max**
 
