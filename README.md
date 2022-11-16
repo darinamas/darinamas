@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **HBO Max**
 
-- 🌱 I’m currently learning **Selenium, Java, Swift, XCTest**
+- 🌱 I’m currently learning **Selenium, Java, Swift, XCTest, Appium**
 
 - ⚡ **I am passionate ❤️ about testing, automating, solve testing and automation test problems in real world, designing test frameworks, mobile devices, ios development and ios automation**
 
