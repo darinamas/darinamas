@@ -7,6 +7,12 @@
 
 - ⚡ **I am passionate ❤️ about testing, automating, solve testing and automation test problems in real world, designing test frameworks, mobile devices, ios development and ios automation**
 
+**My Automation tests projcts:**
+
+- Selenium + Java + JUnit + POM: <a href="https://github.com/darinamas/TicketSupportAutomationTest">Ticket Support Portal - Automation Tests</a> 
+- XCUITest + Swift + POM: <a href="https://github.com/darinamas/XCUITEST_RESTAURANT_BOOKING">Restaurant booking App - Automation Tests</a> 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/darina-melis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darina-melis" height="30" width="40" /></a>
